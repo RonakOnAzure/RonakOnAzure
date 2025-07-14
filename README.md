@@ -24,6 +24,6 @@
 
 📬 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ronakmakwana)
-- [Twitter][(https://x.com/RonakOnAzure)]
+- [X](https://x.com/RonakOnAzure)
 - [Blog](https://ronakmakwana.co)
 - [YouTube](https://www.youtube.com/channel/UC9-0cYwR3t6GONifGVtZpwQ)
